@@ -69,9 +69,4 @@ Parameter selection was based on minimum AIC/BIC and visual inspection of ACF/PA
 - Sales show strong seasonality patterns  
 - Forecasting predicts increasing demand in specific months  
 
-(You can later insert graphs here.)
-
----
-
-## 📚 Folder Structure
 
